@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mohamad ChamanMotlagh (@MohamadCM)
+
 I am an engineer, specialized in the computer hardware, embedded systems and IoT development arena. however, For the last 3 years, I have been working in various industries across the computer science universe. I’m also hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
 
 - I’m currently studying Computer Engineering at AmirKabir University of technology, where I'm also a part time research assistant working on embedded automotive systems, and a teaching assistant (Microprocessors & Operating systems courses).
