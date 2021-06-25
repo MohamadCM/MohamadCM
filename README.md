@@ -68,7 +68,7 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 [![](https://img.shields.io/badge/-MohamadCM-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamadcm/)
 
 
-<p>
+<p align="center">
   <img style="margin-bottom: 10px; height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&layout=compact&theme=blueberry" alt="Mohamad's most used languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadCM&theme=blueberry" alt="Mohamad's Github Steak" />
 </p>
