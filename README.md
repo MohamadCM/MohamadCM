@@ -45,7 +45,7 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 
 ![android](https://img.shields.io/badge/android_development-3DDC84?logo=android&style=for-the-badge&logoColor=white)
 ![test](https://img.shields.io/badge/automated_testing-CD040B?logo=verizon&style=for-the-badge&logoColor=white)
-![database](https://img.shields.io/badge/database_desing-FF3621?logo=Databricks&style=for-the-badge&logoColor=white)
+![database](https://img.shields.io/badge/database_design-FF3621?logo=Databricks&style=for-the-badge&logoColor=white)
 ![parallel](https://img.shields.io/badge/parallel_programming-188FFF?logo=Apache-Pulsar&style=for-the-badge&logoColor=white)
 
 ![nodejs](https://img.shields.io/badge/nodejs-339933?logo=node.js&style=for-the-badge&logoColor=white)
