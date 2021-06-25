@@ -10,11 +10,6 @@ My last job was being a Technical Leader and a Scrum Master at Hadish Sabz Parse
 
 If you want to talk about engineering, leadership, teaching or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from GitHub users. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
 
-<!---
-MohamadCM/MohamadCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## Interests
 
 ![IoT](https://img.shields.io/badge/-Embedded_systems-lightgreen?logoColor=black&style=for-the-badge&logo=Material-Design-Icons)
@@ -38,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ![teaching](https://img.shields.io/badge/teaching-666666?logo=internet-archive&style=for-the-badge&logoColor=white)
 ![scrum](https://img.shields.io/badge/scrum-009FDA?logo=scrum-alliance&style=for-the-badge&logoColor=white)
 
-<div style="border-bottom: dashed"></div>
+<hr/>
 
 ![java](https://img.shields.io/badge/java-red?logo=java&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&style=for-the-badge)
@@ -73,7 +68,12 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-MohamadCM-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamadcm/)
 
 
-<p style="display: flex; flex-direction: column">
+<p>
   <img style="margin-bottom: 10px; height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&layout=compact&theme=blueberry" alt="Mohamad's most used languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadCM&theme=blueberry" alt="Mohamad's Github Steak" />
 </p>
+
+<!---
+MohamadCM/MohamadCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
