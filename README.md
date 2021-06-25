@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 ![teaching](https://img.shields.io/badge/teaching-666666?logo=internet-archive&style=for-the-badge&logoColor=white)
 ![scrum](https://img.shields.io/badge/scrum-009FDA?logo=scrum-alliance&style=for-the-badge&logoColor=white)
 
-<br>
+<div style="border-bottom: dashed"></div>
 
 ![java](https://img.shields.io/badge/java-red?logo=java&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&style=for-the-badge)
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-MohamadCM-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamadcm/)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&layout=compact&theme=blueberry" alt="Mohamad's most used languages" />
+<p style="display: flex; flex-direction: column">
+  <img style="margin-bottom: 10px; height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&layout=compact&theme=blueberry" alt="Mohamad's most used languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadCM&theme=blueberry" alt="Mohamad's Github Steak" />
 </p>
