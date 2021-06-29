@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Computer engineer, specialized in the computer hardware, embedded systems and IoT development arena. however, For the last 3 years, I have been working in various industries across the computer science universe. I’m also hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
+I am a Computer engineer, specialized in the computer hardware, embedded systems and IoT development arena. However, For the last 3 years, I have been working in various industries across the computer science universe. I’m also hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
 I’m currently studying Computer Engineering at Amirkabir University of technology (Tehran Polytechnic), where I'm also a part-time research assistant working on embedded automotive systems (AUTSAT Lab.), and a teaching assistant ("Microprocessors" & "Operating Systems" courses).
 
 I'm interested in solving problems, creating new opportunities, leading teams, teaching, and doing hands-on R&D projects. 
@@ -19,9 +19,9 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 
 ## Industrial Knowledge and skills
 
+![micro](https://img.shields.io/badge/microcontrollers-D9232E?logo=MicroStrategy&style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?logo=c&style=for-the-badge&logoColor=blue)
 ![assembly](https://img.shields.io/badge/assembly-white?logo=Progress&style=for-the-badge&logoColor=black)
-![micro](https://img.shields.io/badge/microcontrollers-D9232E?logo=MicroStrategy&style=for-the-badge&logoColor=white)
 ![arm](https://img.shields.io/badge/ARM_architecture-00979D?logo=arduino&style=for-the-badge&logoColor=white)
 ![os](https://img.shields.io/badge/operating_systems-7764FA?logo=osano&style=for-the-badge&logoColor=white)
 
