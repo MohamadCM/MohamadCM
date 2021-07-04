@@ -40,6 +40,7 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white)
 ![js](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
 ![ts](https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
+![go](https://img.shields.io/badge/GoLang-00ADD8?logo=go&style=for-the-badge&logoColor=white)
 ![cuda](https://img.shields.io/badge/cuda-76B900?logo=nvidia&style=for-the-badge&logoColor=white)
 ![openmp](https://img.shields.io/badge/openmp-CC3333?logo=Khronos-Group&style=for-the-badge&logoColor=white)
 
