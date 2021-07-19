@@ -3,7 +3,7 @@
 ## About Me
 
 I am a Computer engineer, specialized in the computer hardware, embedded systems and IoT development arena. However, For the last 3 years, I have been working in various industries across the computer science universe. I’m also a hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
-I’m currently studying Computer Engineering at Amirkabir University of technology (Tehran Polytechnic), where I'm also a part-time research assistant working on embedded automotive systems (AUTSAT Lab.), and a teaching assistant ("Microprocessors" & "Operating Systems" courses).
+I’m currently studying Computer Engineering at Amirkabir University of technology (Tehran Polytechnic), where I'm also a part-time research assistant working on embedded automotive systems, and a teaching assistant ("Microprocessors" & "Operating Systems" courses).
 
 I'm interested in solving problems, creating new opportunities, leading teams, teaching, and doing hands-on R&D projects. 
 My last job was being a Technical Leader and a Scrum Master at Hadish Sabz Parseh Co., one of the top consumer electronics companies in the Middle East.
