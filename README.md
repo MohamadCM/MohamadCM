@@ -37,10 +37,8 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 
 ![java](https://img.shields.io/badge/java-red?logo=java&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&style=for-the-badge)
+![js](https://img.shields.io/badge/js%2Fts-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white)
-![js](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
-![ts](https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
-![go](https://img.shields.io/badge/GoLang-00ADD8?logo=go&style=for-the-badge&logoColor=white)
 ![cuda](https://img.shields.io/badge/cuda-76B900?logo=nvidia&style=for-the-badge&logoColor=white)
 ![openmp](https://img.shields.io/badge/openmp-CC3333?logo=Khronos-Group&style=for-the-badge&logoColor=white)
 
