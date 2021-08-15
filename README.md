@@ -13,7 +13,7 @@ If you want to talk about engineering, leadership, teaching or anything else, dr
 ## Interests
 
 ![IoT](https://img.shields.io/badge/-Embedded_systems-lightgreen?logoColor=black&style=for-the-badge&logo=Material-Design-Icons)
-![Computer aided design](https://img.shields.io/badge/-Computer_Aided_Design-orange?logoColor=black&style=for-the-badge&logo=automattic)
+![Computer-aided design](https://img.shields.io/badge/-Computer--Aided_Design-orange?logoColor=black&style=for-the-badge&logo=automattic)
 ![Embedded systems](https://img.shields.io/badge/-IoT-blue?logoColor=black&style=for-the-badge&logo=react-router)
 
 
