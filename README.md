@@ -2,13 +2,13 @@
 
 ## About Me
 
-I am a computer engineer specialized in the computer architecture, embedded systems, and IoT development arena. However, I have been working in various industries across the computer science universe for the last three years. I'm also a hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
-I'm currently studying Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic), where I'm also a part-time research assistant working on distributed embedded automotive systems and a teaching assistant.
+I am a computer engineer specializing in the computer architecture, embedded systems, and IoT development arena. However, I have been working in various industries across the computer science universe for the last three years. I'm also a hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
+I recently graduated in Computer Engineering from the Amirkabir University of Technology (Tehran Polytechnic), one of the most prestigious universities in Iran.
 
-I'm interested in solving problems, creating new opportunities, leading teams, teaching, and doing hands-on R&D projects. 
-My last job was being a Technical Leader and a Scrum Master at Hadish Sabz Parseh Co., one of the top consumer electronics companies in the Middle East.
+I'm interested in solving problems, leading teams, teaching, and doing hands-on R&D projects. 
+I'm currently a software engineer at Digikala Co., the biggest online retailer in the middle-east.
 
-If you want to talk about engineering, leadership, teaching or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from GitHub users. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
+If you want to talk about engineering, leadership, teaching, or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from GitHub users. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
 
 ## Interests
 
