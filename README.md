@@ -3,10 +3,10 @@
 ## About Me
 
 I am a computer engineer specializing in the computer architecture, embedded systems, and IoT development arena. However, I have been working in various industries across the computer science universe for the last three years. I'm also a hands-on engineer in all stages of the software development cycle, from planning and design to testing and deployment.
-I recently graduated in Computer Engineering from the Amirkabir University of Technology (Tehran Polytechnic), one of the most prestigious universities in Iran.
+I am a Master's student at Politecnico di Milano, and I recently graduated in Computer Engineering from the Amirkabir University of Technology (Tehran Polytechnic), one of the most prestigious universities in Iran.
 
 I'm interested in solving problems, leading teams, teaching, and doing hands-on R&D projects. 
-I'm currently a software engineer at Digikala Co., the biggest online retailer in the middle-east.
+I'm currently a software engineer at [Zerolatency](https://zerolatency.tv/).
 
 If you want to talk about engineering, leadership, teaching, or anything else, drop me a line. I am currently available for employment! Yet, I am eager to hear from GitHub freinds. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
 
