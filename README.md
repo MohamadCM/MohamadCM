@@ -68,7 +68,7 @@ If you want to talk about engineering, leadership, teaching, or anything else, d
 
 
 <p align="center">
-  <img style="margin-bottom: 10px; height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&theme=blueberry" alt="Mohamad's most used languages" />
+  <img style="margin-bottom: 10px; height: 235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadCM&theme=blueberry&size_weight=0.5&count_weight=0.5&layout=donut" alt="Mohamad's most used languages" />
   <! –– <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadCM&theme=blueberry" alt="Mohamad's Github Steak" />
 </p>
 
