@@ -6,9 +6,10 @@ I am a computer engineer specializing in the computer architecture, embedded sys
 I am a Master's student at Politecnico di Milano, and I recently graduated in Computer Engineering from the Amirkabir University of Technology (Tehran Polytechnic), one of the most prestigious universities in Iran.
 
 I'm interested in solving problems, leading teams, teaching, and doing hands-on R&D projects. 
-I'm currently a software engineer at [Zerolatency](https://zerolatency.tv/).
+I'm currently pursuing my master's, but I'll be more than welcome to new opportunities. 
 
-If you want to talk about engineering, leadership, teaching, or anything else, drop me a line. I am currently available for employment! Yet, I am eager to hear from GitHub freinds. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
+
+If you want to talk about engineering, leadership, teaching, or anything else, drop me a line. I am currently available for employment, yet, I am eager to hear from GitHub friends. You can also find me on LinkedIn [here](https://www.linkedin.com/in/MohamadCM/ "Mohamad ChamanMotlagh at Linkedin").
 
 ## Interests
 
